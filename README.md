@@ -38,10 +38,10 @@ Especificos:
 
 - Familiarizarse con el uso de instrumentos de medida.
 
-7.2 Materiales
+# 7.2 Materiales
 
 - Laboratorio virtual ACDCLab
--
+
 - Generador de señales
 
 - Fuente DC.
