@@ -56,6 +56,10 @@ Especificos:
 
 - Resistencias, bobinas y capacitores.
 
+# 7.3 Procedimiento
+
+1.- Construya en el protoboard el circuito mostrado en la Figura 1.
+
 
 
 
