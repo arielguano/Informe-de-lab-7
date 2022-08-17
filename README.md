@@ -60,7 +60,6 @@ Especificos:
 
 1.- Construya en el protoboard el circuito mostrado en la Figura 1.
 
-https://github.com/arielguano/Informe-de-lab-7/blob/main/Imagen1.png
 
 ![image](https://github.com/arielguano/Informe-de-lab-7/blob/main/Imagen1.png)
 
