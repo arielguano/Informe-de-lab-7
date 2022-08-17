@@ -63,7 +63,8 @@ Especificos:
 
 ![image](https://github.com/arielguano/Informe-de-lab-7/blob/main/Imagen1.png)
 
-
+a) Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los
+valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
 
 
 
